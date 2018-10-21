@@ -367,3 +367,5 @@ barplot(u,main ='Outlet type',cex.axis = .9)
 Not so much can be infered here but we can see Supermarket type 1 ia the most popuar with 9294.
 
 Also outlets established in 1998 is least popular.
+
+To be continued...
