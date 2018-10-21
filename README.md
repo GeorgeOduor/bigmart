@@ -6,4 +6,4 @@ This projects is based on data collected by data scientists at BigMart for 1559 
 
 The aim of this project is to build a predictive model to find out the properties of any store.This can play a key role in increasing the overal sales.
 
-Click here to read more
+Click [here](https://github.com/GeorgeOduor/bigmart/blob/master/bigmart.md) to read more
