@@ -993,7 +993,7 @@ xgb.plot.importance(varimp,main = "XGboost var importance ")
 
 ![](bigmart_files/figure-markdown_github/variable%20imprtance-1.png)
 
-Conclution
+Conclusion
 ==========
 
 This project showed the importance of thorough feature ingenering before carying out a predictive analysis.Again Ridge regression proved to be the best in predictive analysis of this data set.
